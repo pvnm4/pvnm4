@@ -7,7 +7,7 @@
 - 🎓 B.E. in Computer Engineering, Mumbai University
 - 📍 Based in Mumbai, India
 
-#### Open To Work <br>
+## 🟢 Open to Work
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
