@@ -1,16 +1,15 @@
-## Hi there 👋
+![GitHub banner](assets/banner.gif)
 
-<!--
-**pvnm4/pvnm4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me:
 
-Here are some ideas to get you started:
+- 🔭 Currently, I am learning and building Agentic AI projects.
+- 💻 I work with **Python, FastAPI, PostgreSQL, SQLAlchemy, LangChain, LangGraph, MCP**
+- 🎓 B.E. in Computer Engineering, Mumbai University
+- 📍 Based in Mumbai, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Want a descriptive lookup? </br>
+[linkedin.com/in/pvnm4](https://linkedin.com/in/pvnm4)
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
