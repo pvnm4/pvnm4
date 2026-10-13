@@ -7,8 +7,7 @@
 - 🎓 B.E. in Computer Engineering, Mumbai University
 - 📍 Based in Mumbai, India
 
-Want a descriptive lookup? </br>
-[linkedin.com/in/pvnm4](https://linkedin.com/in/pvnm4)
+#### Open To Work <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
